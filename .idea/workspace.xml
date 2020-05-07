@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3266d975-fbc9-4e8e-8969-8c7c063f00ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/introduction/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/introduction/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/country/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/country/Country.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
