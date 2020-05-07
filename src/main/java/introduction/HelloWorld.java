@@ -1,5 +1,6 @@
 package introduction;
 
+import country.Country;
 import details.Details;
 
 public class HelloWorld {
@@ -10,5 +11,7 @@ public class HelloWorld {
         System.out.println("AAyushi");
         System.out.println("gupta");
         System.out.println(" we are classmates and study at gndu");
+        Country country = new Country();
+
     }
 }
