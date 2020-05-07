@@ -7,6 +7,8 @@ public class HelloWorld {
         System.out.println("Hello World");
         Details obj = new Details();
         obj.print();
-        System.out.println("Name is garima");
+        System.out.println("AAyushi");
+        System.out.println("gupta");
+        System.out.println(" we are classmates and study at gndu");
     }
 }
